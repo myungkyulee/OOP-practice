@@ -1,11 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9917fab9-09ac-4cd6-ad19-bb40bd42425c" name="Changes" comment="init : init" />
+    <list default="true" id="f772fd3a-3109-47f9-a6a5-009e6010763a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/subway/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/image/dijkstra-sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/src/main/java/subway/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/subway/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/src/main/java/subway/domain/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/subway/domain/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/src/main/java/subway/domain/LineRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/subway/domain/LineRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/src/main/java/subway/domain/Station.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/subway/domain/Station.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/src/main/java/subway/domain/StationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/subway/domain/StationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-subway-path-precourse-main/src/test/java/subway/JGraphtTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-for-.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/SpringTestLikelionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/character/CharacterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/character/CharacterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/character/UserCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/character/UserCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/character/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/character/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/character/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/character/Wizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/weapon/Bow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/weapon/Bow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/weapon/FireWand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/weapon/FireWand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/weapon/IceWand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/weapon/IceWand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/weapon/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/weapon/Sword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelion/weapon/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/likelion/weapon/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/InitData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/domain/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/domain/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/GetMessagesReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/MyUUID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/WriteMessageRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/post/PostDtoReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/dto/post/PostDtoRes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/exception/MyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/repository/MemoryMessageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/repository/MemoryPostRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/service/MessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/java/com/example/springtestlikelion/likelionAPI/service/PostService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/test/java/com/example/springtestlikelion/SpringTestLikelionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/test/java/com/example/springtestlikelion/likelion/character/CharacterFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/test/java/com/example/springtestlikelion/likelion/character/UserCharacterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-test-likelion/src/test/java/com/example/springtestlikelion/likelion/weapon/WeaponTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,7 +95,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LSixXvQwtWLEsC8W64UDQ6leR3" />
+  <component name="ProjectId" id="2LtcBQldx6wDBiEgRkwTU4TSGbm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,35 +105,36 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/이명규/Desktop/멋사 문제풀어봄/repository-for-",
+    "last_opened_file_path": "C:/Users/이명규/Desktop/oop-practice/OOP-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\이명규\Desktop\oop-practice\OOP-practice\spring-test-likelion\src\main\java\com.example" />
+      <recent name="C:\Users\이명규\Desktop\oop-practice\OOP-practice\src\main\java" />
+      <recent name="C:\Users\이명규\Desktop\oop-practice\OOP-practice\spring-test-likelion\src\main\java" />
+      <recent name="C:\Users\이명규\Desktop\oop-practice\OOP-practice\src\main\java\subway" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9917fab9-09ac-4cd6-ad19-bb40bd42425c" name="Changes" comment="" />
-      <created>1675871132085</created>
+      <changelist id="f772fd3a-3109-47f9-a6a5-009e6010763a" name="Changes" comment="" />
+      <created>1676693690231</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675871132085</updated>
-      <workItem from="1675871133436" duration="269000" />
+      <updated>1676693690231</updated>
+      <workItem from="1676693691754" duration="89000" />
+      <workItem from="1676693854479" duration="401000" />
     </task>
-    <task id="LOCAL-00001" summary="init : init">
-      <created>1675871176537</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1675871176537</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="init : init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init : init" />
   </component>
 </project>
